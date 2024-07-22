@@ -1,4 +1,4 @@
-![alt text](https://github.com/marcosfdev/Templar/src/lib/assets/images/knight.png)
+![alt text](https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png?raw=true)
 
 # create-svelte
 
