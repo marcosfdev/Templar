@@ -1,5 +1,5 @@
 # Templar
-![alt text](https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png?raw=true ="80")
+![alt text](https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png?raw=true="80")
 
 Sveltekit with Typescript and Tailwind CSS and animation, forms, typography, and aspect-ratio plugins configured. 
 
