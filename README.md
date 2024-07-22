@@ -1,6 +1,7 @@
-![alt text](https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png?raw=true="100")
+# Templar
+![alt text](https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png?raw=true ="80")
 
-# create-svelte
+Sveltekit with Typescript and Tailwind CSS and animation, forms, typography, and aspect-ratio plugins configured. 
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
