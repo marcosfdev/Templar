@@ -1,7 +1,7 @@
 # Templar
 <center>
 <img src="https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png width="70" height="70">
-</center>center>
+</center>
 Sveltekit with Typescript and Tailwind CSS and animation, forms, typography, and aspect-ratio plugins configured. 
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
