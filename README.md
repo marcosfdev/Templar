@@ -4,6 +4,7 @@
 
 Sveltekit with Typescript and Tailwind CSS and animation, forms, typography, and aspect-ratio plugins configured. 
 </p>
+
 # Templar
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
