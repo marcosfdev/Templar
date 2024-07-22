@@ -1,6 +1,6 @@
 # Templar
 <center>
-<img src="https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png width=70 height=70">
+<img src=https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/knight.png width=70 height=70>
 </center>
 Sveltekit with Typescript and Tailwind CSS and animation, forms, typography, and aspect-ratio plugins configured. 
 
